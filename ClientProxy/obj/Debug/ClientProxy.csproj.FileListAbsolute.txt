@@ -1,0 +1,7 @@
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\ClientProxy\bin\Debug\ClientProxy.dll
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\ClientProxy\bin\Debug\ClientProxy.pdb
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\ClientProxy\bin\Debug\Contract.dll
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\ClientProxy\bin\Debug\Contract.pdb
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\ClientProxy\obj\Debug\ClientProxy.csprojResolveAssemblyReference.cache
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\ClientProxy\obj\Debug\ClientProxy.dll
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\ClientProxy\obj\Debug\ClientProxy.pdb

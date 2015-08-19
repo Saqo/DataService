@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:l="clr-namespace:System;assembly=mscorlib">
+    <l:String x:Key="btn_label">Получить данные</l:String>
+    <l:String x:Key="languages">Язык</l:String>
+    <l:String x:Key="title">WPF приложение клиента</l:String> 
+</ResourceDictionary>

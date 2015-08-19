@@ -1,0 +1,7 @@
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\CustomDataService\bin\Debug\CustomDataService.dll
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\CustomDataService\bin\Debug\CustomDataService.pdb
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\CustomDataService\bin\Debug\Contract.dll
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\CustomDataService\bin\Debug\Contract.pdb
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\CustomDataService\obj\Debug\CustomDataService.csprojResolveAssemblyReference.cache
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\CustomDataService\obj\Debug\CustomDataService.dll
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\CustomDataService\obj\Debug\CustomDataService.pdb

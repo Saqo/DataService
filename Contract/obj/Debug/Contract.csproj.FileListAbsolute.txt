@@ -1,0 +1,4 @@
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\Contract\bin\Debug\Contract.dll
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\Contract\bin\Debug\Contract.pdb
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\Contract\obj\Debug\Contract.dll
+C:\Users\Sarkis Agadzhanyan\Documents\Visual Studio 2013\Projects\DataService\Contract\obj\Debug\Contract.pdb
